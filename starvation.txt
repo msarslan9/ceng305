@@ -1,0 +1,9 @@
+# Starvation Senaryosu
+# P_Low (P1) cok dusuk oncelikli (sayi yuksek = dusuk oncelik)
+# Digerleri surekli geliyor ve yuksek oncelikli.
+P_Low, 0, 10, 100
+P_High1, 1, 5, 1
+P_High2, 2, 5, 1
+P_High3, 3, 5, 1
+P_High4, 4, 5, 1
+P_High5, 5, 5, 1
